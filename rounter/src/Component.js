@@ -5,6 +5,8 @@ const Component = () => {
   return (
     <div className='container'>
        Component
+       <h1 className='react'>ReactJs</h1>
+       
     </div>
 );
 }
